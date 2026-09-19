@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0oa736n29",
+  "description": "https://scrimba.com/s0oa736n29/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
